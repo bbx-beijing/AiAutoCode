@@ -44,7 +44,7 @@ Both the source code and the datasets are provided to foster future research in 
 ### Install dependencies
 
 ```sh
-pip install -r  requirements.txt
+pip3 install -r  requirements.txt
 ```
 
 ## Usage
