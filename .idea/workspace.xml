@@ -27,7 +27,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b6b16e6-4b90-437b-b236-e8c393d07ad9" name="Default Changelist" comment="AiAutoCodeForBBX">
-      <change beforePath="$PROJECT_DIR$/datasets/datasets.zip" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,7 @@
       <workItem from="1602306877202" duration="1005000" />
       <workItem from="1602309084295" duration="945000" />
       <workItem from="1602313157689" duration="4243000" />
-      <workItem from="1602338305596" duration="8277000" />
+      <workItem from="1602338305596" duration="9560000" />
     </task>
     <task id="LOCAL-00001" summary="AiAutoCodeForBBX">
       <created>1602377524637</created>
