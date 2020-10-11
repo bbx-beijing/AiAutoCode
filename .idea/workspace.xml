@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b6b16e6-4b90-437b-b236-e8c393d07ad9" name="Default Changelist" comment="AiAutoCodeForBBX">
+      <change beforePath="$PROJECT_DIR$/datasets/datasets.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="80c203b0-b6a9-4758-93cf-d6b2431039c6" />
+  <component name="ProjectId" id="1ifP0al6AA49SigRW0Ap2zKBuJT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b6b16e6-4b90-437b-b236-e8c393d07ad9" name="Default Changelist" comment="" />
+      <created>1602295451213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602295451213</updated>
+      <workItem from="1602295452544" duration="4694000" />
+      <workItem from="1602306877202" duration="1005000" />
+      <workItem from="1602309084295" duration="945000" />
+      <workItem from="1602313157689" duration="4243000" />
+      <workItem from="1602338305596" duration="8277000" />
+    </task>
+    <task id="LOCAL-00001" summary="AiAutoCodeForBBX">
+      <created>1602377524637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602377524758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AiAutoCodeForBBX" />
+    <option name="LAST_COMMIT_MESSAGE" value="AiAutoCodeForBBX" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="220" width="732" height="644" key="#Inspections" timestamp="1602340975103">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="505" y="220" width="732" height="644" key="#Inspections/72.27.1608.1023@72.27.1608.1023" timestamp="1602340975103" />
+    <state x="448" y="340" width="846" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602341805856">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="448" y="340" width="846" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1608.1023@72.27.1608.1023" timestamp="1602341805856" />
+    <state x="272" y="227" width="1408" height="823" key="DiffContextDialog" timestamp="1602375807513">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="272" y="227" width="1408" height="823" key="DiffContextDialog/72.27.1608.1023@72.27.1608.1023" timestamp="1602375807513" />
+    <state x="200" y="69" width="1016" height="742" key="SettingsEditor" timestamp="1602307290960">
+      <screen x="72" y="27" width="1272" height="813" />
+    </state>
+    <state x="200" y="69" width="1016" height="742" key="SettingsEditor/72.27.1272.813@72.27.1272.813" timestamp="1602307290960" />
+    <state x="650" y="255" width="442" height="573" key="VcsDiffUtil.ChangesDialog" timestamp="1602375809038">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="650" y="255" width="442" height="573" key="VcsDiffUtil.ChangesDialog/72.27.1608.1023@72.27.1608.1023" timestamp="1602375809038" />
+  </component>
+</project>
