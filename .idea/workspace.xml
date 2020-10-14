@@ -27,10 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b6b16e6-4b90-437b-b236-e8c393d07ad9" name="Default Changelist" comment="AiAutoCodeForBBX">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +117,10 @@
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
     <state x="272" y="227" width="1408" height="823" key="DiffContextDialog/72.27.1608.1023@72.27.1608.1023" timestamp="1602375807513" />
+    <state x="459" y="284" width="824" height="515" key="IDE.errors.dialog" timestamp="1602639735418">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="459" y="284" width="824" height="515" key="IDE.errors.dialog/72.27.1608.1023@72.27.1608.1023" timestamp="1602639735418" />
     <state x="200" y="69" width="1016" height="742" key="SettingsEditor" timestamp="1602307290960">
       <screen x="72" y="27" width="1272" height="813" />
     </state>
