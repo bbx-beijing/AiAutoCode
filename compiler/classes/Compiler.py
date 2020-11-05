@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 __author__ = 'Tony Beltramelli - www.tonybeltramelli.com'
 
 import json
